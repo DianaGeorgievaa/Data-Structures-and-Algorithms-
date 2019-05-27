@@ -3,7 +3,6 @@
 #include<algorithm>
 using namespace std;
 
-//bool equalBuildings(vector<int>v , int n);
 int sum(vector<int>b, vector<int>p);
 
 int main()
